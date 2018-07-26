@@ -1,6 +1,11 @@
 import sys, os
 from struct import pack as pk, unpack as upk
 
+try:
+    input = raw_input
+except NameError:
+    pass
+
 def gen_header(argc, argv):
     stringTable = '\x00'.join([os.path.basename(file) for file in argv[1:]])
     headerSize = 0x10 + (argc-1)*0x18 + len(stringTable)
@@ -31,7 +36,7 @@ def gen_header(argc, argv):
 
 def mk_nsp(argc, argv):
     if argc == 1:
-        print('Usage is: %s file1 file 2 ...' % sys.argv[0])
+        print('Usage is: %s file1 file2 ...' % sys.argv[0])
         return 1
         
     name = input('Name of output nsp? ')
