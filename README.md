@@ -2,6 +2,8 @@
 Rewrite of rkk's nspBuild
 
 
+#!OUT OF DATE! PLEASE USE THE NSP BUILDER NINTENDO MADE OR 4NXCI!!!
+
 Convert NCA or XCI to NSP Format using Python
 
 Follow this guide to get your keys.txt: https://www.youtube.com/watch?v=de1OXyl15bI
