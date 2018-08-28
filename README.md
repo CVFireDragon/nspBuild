@@ -2,7 +2,7 @@
 Rewrite of rkk's nspBuild
 
 
-#!OUT OF DATE! PLEASE USE THE NSP BUILDER NINTENDO MADE OR 4NXCI!!!
+# !𝐎𝐔𝐓 𝐎𝐅 𝐃𝐀𝐓𝐄! 𝐏𝐋𝐄𝐀𝐒𝐄 𝐔𝐒𝐄 𝐓𝐇𝐄 𝐍𝐒𝐏 𝐁𝐔𝐈𝐋𝐃𝐄𝐑 𝐍𝐈𝐍𝐓𝐄𝐍𝐃𝐎 𝐌𝐀𝐃𝐄 𝐎𝐑 𝟒𝐍𝐗𝐂𝐈!
 
 Convert NCA or XCI to NSP Format using Python
 
