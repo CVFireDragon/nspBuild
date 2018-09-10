@@ -18,7 +18,7 @@ Once that finishes, press any key when it says to.
 
 It's built! Now just open the "Dist" folder and there is your .exe!
 
-(Note: Run compile_after.bat after running compile_first-time.bat when you want to build again.)
+(Note: Run compile.bat after running compile_first-time.bat when you want to build again.)
 
 # Note
 
