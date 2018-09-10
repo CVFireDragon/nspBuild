@@ -9,4 +9,4 @@ This tool is just for packing NCAs into NSP and it doesn't touch NCAs (if they d
 
 # Compiling / Building the .exe
 
-See HowToCompile.md
+See https://github.com/CVFireDragon/nspBuild/blob/master/HowToCompile.md
