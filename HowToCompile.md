@@ -2,7 +2,7 @@
 
 # Requirements
 
-Python 3.7.0 or later
+Python 3.3 or later
 
 # How to
 
