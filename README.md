@@ -10,21 +10,11 @@ This tool is just for packing NCAs into NSP and it doesn't touch NCAs (if they d
 This tool takes your NCA file and changes the header to a PFS0 format (also changes a few other things), then builds an NSP file from the changes it made.
 
 # Usage
-Download the exe or Python file, and go to the section below for your prefered file type
+1. Download the compiled executable file (exe), or Python script (py)
 
-## Exe File
-
-Open CMD in the exe's directory and run ``nspBuild output (replace with nca) (replace with the same directory as the nca, with test.nsp at the end)``
+2. Open CMD in the py/exe's directory and run ``nspBuild output (replace with nca) (replace with the same directory as the nca, with test.nsp at the end)``
 
 Example: ``nspBuild output C:\Directory\FileName.nca C:\Directory\Test.nsp``
-
-(obviously, replace the ()'s with whatever it says to)
-
-## Python File
-
-Open CMD in the .py's directory and run ``python nspBuild.py output (replace with nca) (replace with the same directory as the nca, with test.nsp at the end)``
-
-Example: ``python nspBuild.py output C:\Directory\FileName.nca C:\Directory\Test.nsp``
 
 (obviously, replace the ()'s with whatever it says to)
 
@@ -36,6 +26,6 @@ Example: ``python nspBuild.py output C:\Directory\FileName.nca C:\Directory\Test
 
 @shchmue for porting it to Python 2. (#2)
 
-# Compiling / Building the .exe
+# Compiling / Building the executable
 
 See https://github.com/CVFireDragon/nspBuild/blob/master/HowToCompile.md
