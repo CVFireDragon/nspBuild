@@ -1,5 +1,5 @@
 # nspBuild
-Mod of rkk's nspBuild
+Community Mod of rkk's nspBuild
 
 Convert NCA to NSP Format using Scripts
 
