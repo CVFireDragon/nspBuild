@@ -12,9 +12,9 @@ This tool takes your NCA file and changes the header to a PFS0 format (also chan
 # Usage
 1. Download the compiled executable file (exe), or Python script (py)
 
-2. Open CMD in the py/exe's directory and run ``nspBuild output (replace with nca) (replace with the same directory as the nca, with test.nsp at the end)``
+2. Open CMD in the py/exe's directory and run ``nspBuild out.nsp main main.npdm``
 
-Example: ``nspBuild output C:\Directory\FileName.nca C:\Directory\Test.nsp``
+Example: ``nspBuild out.nsp main main.npdm``
 
 (obviously, replace the ()'s with whatever it says to)
 
